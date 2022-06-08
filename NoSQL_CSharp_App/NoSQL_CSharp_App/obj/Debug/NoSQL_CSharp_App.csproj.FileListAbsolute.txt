@@ -1,0 +1,11 @@
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\bin\Debug\NoSQL_CSharp_App.exe.config
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\bin\Debug\NoSQL_CSharp_App.exe
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\bin\Debug\NoSQL_CSharp_App.pdb
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.csproj.AssemblyReference.cache
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.App.resources
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.Properties.Resources.resources
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.csproj.GenerateResource.cache
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.csproj.CoreCompileInputs.cache
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.exe
+C:\Users\TiConnecting\Documents\GitHub\NoSQL_neo4j_Csharp\NoSQL_CSharp_App\NoSQL_CSharp_App\obj\Debug\NoSQL_CSharp_App.pdb
