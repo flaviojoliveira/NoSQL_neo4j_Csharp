@@ -103,6 +103,7 @@
             this.btn_Enviar.TabIndex = 6;
             this.btn_Enviar.Text = "Enviar";
             this.btn_Enviar.UseVisualStyleBackColor = true;
+            this.btn_Enviar.Click += new System.EventHandler(this.btn_Enviar_Click);
             // 
             // App
             // 
@@ -125,7 +126,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        
         private System.Windows.Forms.Label lb_Nome;
         private System.Windows.Forms.TextBox tb_Nome;
         private System.Windows.Forms.Label lb_Email;

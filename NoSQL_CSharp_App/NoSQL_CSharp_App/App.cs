@@ -31,5 +31,10 @@ namespace NoSQL_CSharp_App
         {
 
         }
+
+        private void btn_Enviar_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("ola Mundo");
+        }
     }
 }
