@@ -17,6 +17,13 @@ namespace NoSQL_CSharp_App
             InitializeComponent();
         }
 
+        private void limpaFormulario()
+        {
+            tb_Nome.Clear();
+            tb_Idade.Clear();
+            tb_Email.Clear();
+        }
+
         private void lb_Email_Click(object sender, EventArgs e)
         {
 
@@ -34,7 +41,14 @@ namespace NoSQL_CSharp_App
 
         private void btn_Enviar_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("ola Mundo");
+            string nome = tb_Nome.Text;
+            string idade = tb_Idade.Text;
+            string email = tb_Email.Text;
+
+            MessageBox.Show($"Nome: {nome} Idade: {idade}\nEmail: {email}");
+
+            limpaFormulario();
+            tb_Nome.Focus();
         }
     }
 }
